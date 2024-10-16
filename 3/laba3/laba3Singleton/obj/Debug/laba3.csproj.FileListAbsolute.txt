@@ -1,6 +1,0 @@
-/Users/lenalyudofa/ТС/3/laba3/laba3/bin/Debug/laba3.exe
-/Users/lenalyudofa/ТС/3/laba3/laba3/bin/Debug/laba3.pdb
-/Users/lenalyudofa/ТС/3/laba3/laba3/obj/Debug/laba3.csprojAssemblyReference.cache
-/Users/lenalyudofa/ТС/3/laba3/laba3/obj/Debug/laba3.csproj.CoreCompileInputs.cache
-/Users/lenalyudofa/ТС/3/laba3/laba3/obj/Debug/laba3.exe
-/Users/lenalyudofa/ТС/3/laba3/laba3/obj/Debug/laba3.pdb

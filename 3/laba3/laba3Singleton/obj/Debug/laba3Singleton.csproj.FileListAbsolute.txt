@@ -1,6 +1,0 @@
-/Users/lenalyudofa/ТС/3/laba3/laba3Singleton/obj/Debug/laba3Singleton.csprojAssemblyReference.cache
-/Users/lenalyudofa/ТС/3/laba3/laba3Singleton/obj/Debug/laba3Singleton.csproj.CoreCompileInputs.cache
-/Users/lenalyudofa/ТС/3/laba3/laba3Singleton/bin/Debug/laba3Singleton.exe
-/Users/lenalyudofa/ТС/3/laba3/laba3Singleton/bin/Debug/laba3Singleton.pdb
-/Users/lenalyudofa/ТС/3/laba3/laba3Singleton/obj/Debug/laba3Singleton.exe
-/Users/lenalyudofa/ТС/3/laba3/laba3Singleton/obj/Debug/laba3Singleton.pdb
